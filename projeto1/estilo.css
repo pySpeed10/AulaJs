@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+#Paragrafo1{
+    font-size: 2rem;
+    color: yellow;
+}
+
+body{
+    font-size: 20px;
+}
+
+figure > img{
+    width: 900px;
+} 
+
+h1, h3{
+    font-style: 
+}
+/* control k c comentario vs code */
